@@ -18,7 +18,7 @@ seo:
     - name: 'twitter:title'
       value: Privacy Policy
     - name: 'twitter:description'
-      value: This is the privacy policy page
+      value: This is the MMC Aestheitcs privacy policy page
 layout: page
 ---
 Name:  Megan McCann
