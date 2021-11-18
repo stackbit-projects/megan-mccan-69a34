@@ -36,12 +36,43 @@ layout: page
     </thead>
     <tbody>
       <tr>
-        <td></td>
-        <td>Body content</td>
+        <td>Teeth Whitening</td>
+        <td>From £250.00</td>
       </tr>
+
       <tr>
-        <td>Body content</td>
-        <td>Body content</td>
+        <td>Invisalign</td>
+        <td>From £XXXX.XX</td>
+      </tr>
+
+      <tr>
+        <td>Orthodontic Treatment</td>
+        <td>From £1900.00</td>
+      </tr>
+
+      <tr>
+        <td>Composite Bonding</td>
+        <td>From £250.00 per Tooth</td>
+      </tr>
+
+      <tr>
+        <td>White Composite Filling</td>
+        <td>From £150.00</td>
+      </tr>
+
+      <tr>
+        <td>Non-Surgical Rhinoplasty</td>
+        <td>From £XXXX.XX</td>
+      </tr>
+
+      <tr>
+        <td>Facial Anti-Wrinkle Treatments</td>
+        <td>From £175.00</td>
+      </tr>
+
+      <tr>
+        <td>Dermal Filler Treatments</td>
+        <td>From £180.00</td>
       </tr>
     </tbody>
   </table>
