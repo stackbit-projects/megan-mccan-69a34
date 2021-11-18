@@ -1,7 +1,7 @@
 ---
 title: About Megan
 seo:
-  title: About
+  title: MMC Aesthetics - About
   description: This is the about page
   extra:
     - name: 'og:type'
