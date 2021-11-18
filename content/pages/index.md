@@ -68,6 +68,7 @@ sections:
         image_align: center
         content: |
           Facial Anti-Wrinkle Treatments
+        content_align: center
       - image_alt: Logo 8
         image_align: center
         content: |
