@@ -133,7 +133,7 @@ sections:
         image: /images/botox.svg
         image_alt: Feature 2 illustration
         media_position: left
-        media_width: sixty
+        media_width: thirty-three
       - title: Tooth Straightening & Whitening
         subtitle: Achieve that perfect smile
         content: >
