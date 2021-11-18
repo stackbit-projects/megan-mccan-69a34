@@ -88,7 +88,7 @@ sections:
           ecommerce platform.
         actions:
           - label: Get in touch
-            url: /about
+            url: /contact
             style: secondary
             has_icon: true
             icon: arrow-right
