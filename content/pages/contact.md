@@ -3,25 +3,29 @@ title: Contact
 sections:
   - type: hero_section
     title: Contact Me
-    subtitle: >-
-      Fill out the form below and I will get in touch within 1 business day.
+    subtitle: Fill out the form below and I will get in touch within 1 business day.
     align: center
     padding_top: medium
     padding_bottom: medium
     background_color: none
   - type: form_section
-    content: >-
-      ## Pricing
+    content: >
+      ## I'd love to hear from you
 
-      After a short onboarding call I will be able to provide you with ballpark
-      pricing, followed by a detailed proposal once we discuss the details. 
 
-      ### Proposal
+      If you would like to find out more about the treatments that I offer of
+      leave me a testimonial please get in touch through this form.
 
-      Your proposal will include several choices in terms of pricing structure
-      and deliverable timeline.
+
+      ### Response
+
+
+      I aim to respond to all queries within 48 business hours, however
+      sometimes this may not be possible due to holidays.
+
 
       ### Terms
+
 
       If at any point you'd like to cancel our project, you are required to
       provide a 30-day written notice, after which I will transfer all of your
@@ -67,20 +71,20 @@ seo:
   title: Contact
   description: This is the contact page
   extra:
-    - name: og:type
+    - name: 'og:type'
       value: website
       keyName: property
-    - name: og:title
+    - name: 'og:title'
       value: Contact
       keyName: property
-    - name: og:description
+    - name: 'og:description'
       value: This is the contact page
       keyName: property
-    - name: twitter:card
+    - name: 'twitter:card'
       value: summary
-    - name: twitter:title
+    - name: 'twitter:title'
       value: Contact
-    - name: twitter:description
+    - name: 'twitter:description'
       value: This is the contact page
 layout: advanced
 ---
