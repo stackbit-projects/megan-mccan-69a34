@@ -57,7 +57,7 @@ sections:
       - title_align: center
         content: |
           Non-Surgical Rhinoplasty
-        content_align: left
+        content_align: center
         actions: []
         actions_align: left
         actions_width: auto
