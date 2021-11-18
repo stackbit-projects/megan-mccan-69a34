@@ -149,9 +149,9 @@ seo:
     - name: twitter:card
       value: summary_large_image
     - name: twitter:title
-      value: Pricing
+      value: Treatments
     - name: twitter:description
-      value: This is the pricing page
+      value: This is the treatments page
     - name: twitter:image
       value: images/about-3.jpg
       relativeUrl: true
