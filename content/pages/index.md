@@ -138,7 +138,7 @@ sections:
 
 
           **S.M** - 22 October 2020
-        image: images/eleanor-carr.png
+        image: /images/logo (1)-c4c8a96f.svg
         image_position: left
         image_width: twenty-five
       - content: >
