@@ -52,7 +52,7 @@ sections:
         content: |
           White Composite Filling
         content_align: center
-      - title_align: left
+      - title_align: center
         content: |
           Non-Surgical Rhinoplasty
         content_align: left
