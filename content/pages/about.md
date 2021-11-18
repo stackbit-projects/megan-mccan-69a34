@@ -30,14 +30,16 @@ layout: page
 ---
 ![](/images/IMG\_5285.jpg)
 
-The only thing I love more than writing is the process of meeting a new client and figuring out together what needs to be written. Working on a freelance consulting basis exposes me to many types of companies with varied goals and methodologies, and keeps me up to date with all marketing tools and platforms.
+Megan to write something here introducing herself
 
 ## Credentials
 
-I have a BA in English Literature and an MBA in Marketing from the University of California. I am also a certified campaign manager in all the major PPC platforms, and a staff writer in several industry publications.
+In 2016 I graduated from the University of Glasgow (BDS Glas 2016) and then re-located to the North East of England the following year. 
 
-My 20 years of experience have taught me to effectively identify the audience for which I write, and explain complex concepts in a friendly and non-intimidating way.
+My General Dentist Council No is 264288.
 
-## Writing for Action
 
-I believe that each and every piece of writing should inspire an action that is connected to a tangible business goal. I will work with you to define our content KPIs, understand how to properly track and measure them, and hit our goals by creating effective messaging across all of your digital assets.
+
+## My Passion
+
+Megan to write something here about her passion / treatments she specialises in / experiences /  where she is based.
