@@ -22,7 +22,9 @@ seo:
 layout: page
 ---
 Name:  Megan McCann
+
 E-mail: xxx@xxx.xxx
+
 Last Modified: 18 Nov 2021
 
 ## The type of personal information we collect 
