@@ -26,7 +26,7 @@ sections:
     background_image_opacity: 8
   - type: grid_section
     title: Treatments
-    subtitle: Who I work with
+    subtitle: What I do
     align: center
     grid_items:
       - image_alt: Logo 1
