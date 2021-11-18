@@ -49,9 +49,6 @@ sections:
         image_align: center
         content: |
           Facial Anti-Wrinkle Treatments
-      - image: images/logo-6.svg
-        image_alt: Logo 6
-        image_align: center
       - image_alt: Logo 7
         image_align: center
         content: |
