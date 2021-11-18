@@ -270,7 +270,7 @@ sections:
     section_id: contact-us
 seo:
   title: MMC Aesthetics
-  description: MMC Aesthetics,
+  description: A dentist, originally from Belfast, now located in the North East of England. Having graduated in 2016 from the University of Glasgow I now have over 5 years professional experience in a vast range of dental treatments.
   extra:
     - name: 'og:type'
       value: website
