@@ -83,7 +83,7 @@ sections:
     has_border: true
     actions:
       - label: lorem-ipsum
-        url: '#'
+        url: /treatments
         style: primary
         has_icon: false
         icon: arrow-left
