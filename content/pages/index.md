@@ -120,7 +120,7 @@ sections:
           Can't believe I didn't get them done sooner! Thank you so much!
 
           **A.W**- 14 September 2021
-        image: /images/logo (1).svg
+        image: /images/logo (1)-c4c8a96f.svg
         image_position: left
         image_width: twenty-five
       - content: >
