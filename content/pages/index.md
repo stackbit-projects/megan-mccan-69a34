@@ -40,7 +40,7 @@ sections:
       - image_alt: Logo 3
         image_align: center
         content: |
-          Braces
+          Orthodontic Treatment
       - image_alt: Logo 4
         image_align: center
         content: |
