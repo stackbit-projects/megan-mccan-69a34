@@ -1,5 +1,5 @@
 ---
-title: MMC Aesthetics - Privacy Policy
+title: Privacy Policy
 seo:
   title: Privacy Policy
   description: This is the MMC Aestheitcs privacy policy page
