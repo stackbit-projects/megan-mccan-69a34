@@ -81,7 +81,7 @@ sections:
         media_width: sixty
         align: left
       - title: Advanced Facial Aesthetics & Medical Skincare
-        subtitle: 'Product updates, inventory and pricing.'
+        subtitle: Rejuvenate yourself
         content: >
           Pump up that volume and refresh your appearance with facial fillers or
           eradicate those wrinkles with wrinkle relaxation. Using naturally
