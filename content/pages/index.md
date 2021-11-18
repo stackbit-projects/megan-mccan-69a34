@@ -47,6 +47,8 @@ sections:
           Composite Bonding
       - image_alt: Logo 5
         image_align: center
+        content: |
+          Facial Anti-Wrinkle Treatments
       - image: images/logo-6.svg
         image_alt: Logo 6
         image_align: center
