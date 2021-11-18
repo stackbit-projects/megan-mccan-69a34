@@ -12,8 +12,7 @@ seo:
       keyName: property
     - name: 'og:description'
       value: >-
-        A reference for suggested typographic treatment and styles for your
-        content
+        A current list of treatments offered by MMC Aesthetics
       keyName: property
     - name: 'twitter:card'
       value: summary
