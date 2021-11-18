@@ -38,6 +38,7 @@ sections:
         image_align: center
         content: |
           Invisalign
+        content_align: center
       - image_alt: Logo 3
         image_align: center
         content: |
