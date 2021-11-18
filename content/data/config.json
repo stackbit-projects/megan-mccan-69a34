@@ -18,11 +18,6 @@
                 "style": "link"
             },
             {
-                "label": "Testimonials",
-                "url": "#testimonials",
-                "style": "link"
-            },
-            {
                 "label": "Treatments",
                 "url": "/treatments",
                 "style": "link",
@@ -31,6 +26,11 @@
                 "icon_position": "right",
                 "new_window": false,
                 "no_follow": false
+            },
+            {
+                "label": "Testimonials",
+                "url": "#testimonials",
+                "style": "link"
             },
             {
                 "label": "Contact me",
