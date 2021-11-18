@@ -8,7 +8,7 @@ seo:
       value: website
       keyName: property
     - name: 'og:title'
-      value: Treatments
+      value: MMC Aesthetics - Treatments
       keyName: property
     - name: 'og:description'
       value: >-
