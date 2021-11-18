@@ -81,7 +81,7 @@ sections:
     grid_gap_vert: medium
   - type: features_section
     title: Featured treatments
-    subtitle: What I do
+    subtitle: What's hot
     features:
       - title: Composite Bonding
         subtitle: Affordable teeth restoration
