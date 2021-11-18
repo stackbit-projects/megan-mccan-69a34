@@ -70,7 +70,7 @@ sections:
           method of repairing a damaged (cracked/chipped) or misshapen tooth.
         actions:
           - label: Get in touch
-            url: '#contact-us'
+            url: /contact
             style: primary
             has_icon: true
             icon: arrow-right
