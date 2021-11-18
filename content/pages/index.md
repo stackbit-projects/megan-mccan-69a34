@@ -134,13 +134,12 @@ sections:
         image: images/miles-tone.png
         image_position: left
         image_width: twenty-five
-      - content: >-
-          Working with Alyvia was great because she was well versed in all of
-          our tools and applications, and was able to manage our store and
-          campaigns without any technical glitches.
+      - content: >
+          I recommend Megan highly. She is so lovely and always keeps in touch
+          between appointments... IO used to fear the dentist and now I love it!
 
 
-          **Eleanor Carr,** *CTO, eCommerce Business*
+          **S.M** - 22 October 2020
         image: images/eleanor-carr.png
         image_position: left
         image_width: twenty-five
