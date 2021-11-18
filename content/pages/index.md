@@ -279,7 +279,7 @@ seo:
       value: MMC Aesthetics
       keyName: property
     - name: 'og:description'
-      value: The preview of the Personal theme
+      value: A dentist, originally from Belfast, now located in the North East of England. Having graduated in 2016 from the University of Glasgow I now have over 5 years professional experience in a vast range of dental treatments.
       keyName: property
     - name: 'og:image'
       value: images/personal-preview.png
