@@ -20,8 +20,7 @@ seo:
       value: Treatments
     - name: 'twitter:description'
       value: >-
-        A reference for suggested typographic treatment and styles for your
-        content
+        A current list of treatments offered by MMC Aesthetics
 layout: page
 ---
 <div class="responsive-table">
