@@ -144,12 +144,12 @@ sections:
         image: images/eleanor-carr.png
         image_position: left
         image_width: twenty-five
-      - content: >-
-          I love it when a content writer can really wordsmith and create copy
-          that suits the design intention and style!
+      - content: >
+          Megan was so lovely with me. She explained every bit of the process
+          and didn't make me feel embarrassed about the state of my teeth.
 
 
-          **Gordon Norman,** *Web Designer, Local Business*
+          **K.M** - 12 October 2020
         image: images/gordon-norman.png
         image_position: left
         image_width: twenty-five
