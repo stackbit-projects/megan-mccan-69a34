@@ -116,12 +116,12 @@ sections:
     title: Testimonials
     subtitle: What My Clients Say
     grid_items:
-      - content: >-
-          Alyvia is an amazing content writer. She helped us produce microcopy
-          for our apps in all levels of user touchpoints.
+      - content: >
+          I recommend Megan highly. She is so lovely and always keeps in touch
+          between appointments... IO used to fear the dentist and now I love it!
 
 
-          **Hanson Deck,** *App Developer, Studio*
+          **S.M**
         image: images/hanson-deck.png
         image_position: left
         image_width: twenty-five
