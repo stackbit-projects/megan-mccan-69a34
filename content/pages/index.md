@@ -33,6 +33,7 @@ sections:
         image_align: center
         content: |
           Teeth Whitening
+        content_align: center
       - image_alt: Logo 2
         image_align: center
         content: |
