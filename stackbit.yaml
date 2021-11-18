@@ -74,6 +74,7 @@ models:
           - green
           - red
           - gray
+          - 
         default: blue
         description: The palette of the site
         required: true
