@@ -276,7 +276,7 @@ seo:
       value: website
       keyName: property
     - name: 'og:title'
-      value: Stackbit Personal Theme
+      value: MMC Aesthetics
       keyName: property
     - name: 'og:description'
       value: The preview of the Personal theme
