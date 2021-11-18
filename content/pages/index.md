@@ -39,6 +39,8 @@ sections:
           Invisalign
       - image_alt: Logo 3
         image_align: center
+        content: |
+          Braces
       - image: images/logo-4.svg
         image_alt: Logo 4
         image_align: center
