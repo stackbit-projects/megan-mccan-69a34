@@ -98,7 +98,7 @@ sections:
         media_position: left
         media_width: sixty
       - title: Tooth Straightening & Whitening
-        subtitle: 'Your products and services, at scale.'
+        subtitle: Achieve that perfect smile
         content: >-
           I will dive into the ins and outs of your product or service and make
           sure the right information is communicated throughout your
