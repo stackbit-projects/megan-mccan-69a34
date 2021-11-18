@@ -49,8 +49,7 @@ sections:
         image_align: center
         content: |
           Facial Anti-Wrinkle Treatments
-      - title: lorem-ipsum
-        title_align: left
+      - title_align: left
         content: |
           Non-Surgical Rhinoplasty
         content_align: left
