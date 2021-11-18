@@ -147,7 +147,7 @@ sections:
 
 
           **K.M** - 12 October 2020
-        image: images/gordon-norman.png
+        image: /images/logo (1)-c4c8a96f.svg
         image_position: left
         image_width: twenty-five
     grid_cols: two
