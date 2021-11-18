@@ -37,8 +37,7 @@ sections:
         image_align: center
         content: |
           Invisalign
-      - image: images/logo-3.svg
-        image_alt: Logo 3
+      - image_alt: Logo 3
         image_align: center
       - image: images/logo-4.svg
         image_alt: Logo 4
