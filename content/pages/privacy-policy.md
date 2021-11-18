@@ -4,40 +4,116 @@ seo:
   title: Privacy Policy
   description: This is the privacy policy page
   extra:
-    - name: og:type
+    - name: 'og:type'
       value: website
       keyName: property
-    - name: og:title
+    - name: 'og:title'
       value: Privacy Policy
       keyName: property
-    - name: og:description
+    - name: 'og:description'
       value: This is the privacy policy page
       keyName: property
-    - name: twitter:card
+    - name: 'twitter:card'
       value: summary
-    - name: twitter:title
+    - name: 'twitter:title'
       value: Privacy Policy
-    - name: twitter:description
+    - name: 'twitter:description'
       value: This is the privacy policy page
 layout: page
 ---
+Name:  Megan McCann
 
-Donec luctus lorem sit amet tincidunt euismod. Etiam ut mauris non magna placerat tempor non vel purus. Quisque ac urna eu sapien placerat aliquet eget id diam. Sed elementum enim non mollis consequat. Maecenas laoreet elementum elit, id luctus odio sagittis nec. Nam ornare lorem sed nunc aliquet vulputate. Phasellus fringilla lacus mi, in porta quam eleifend vitae. Cras suscipit, neque blandit tempor aliquam, tortor sem tristique ex, non scelerisque justo massa id tortor. Maecenas tristique at metus non volutpat. Pellentesque nec felis eu dui tristique cursus sit amet vitae nibh. Duis malesuada ullamcorper sapien viverra tristique. Quisque malesuada, ligula vel lobortis ornare, turpis purus consequat massa, sit amet auctor velit neque sit amet justo. Donec at est sed nisl posuere commodo.
+E-mail: xxx@xxx.xxx
 
-## Phasellus Finibus Risus Eget est Cursus Finibus
+Last Modified: 18 Nov 2021
 
-Aliquam aliquam porta massa, et aliquam tortor mollis quis. Sed sodales leo vulputate metus gravida cursus. In fringilla imperdiet elit. Etiam eget sapien elementum, facilisis arcu vitae, finibus ipsum. Aliquam erat nibh, commodo id urna ut, fermentum tristique metus.
+##
 
-### Morbi Egestas Ullamcorper Vulputate
+## The type of personal information we collect 
 
-Mauris dignissim varius arcu in laoreet. In mollis erat velit, in hendrerit arcu lobortis in. Donec facilisis malesuada sapien, non mollis lacus faucibus quis. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas.
+We currently collect and process the following information:
 
-### Donec Vitae Tincidunt Erat
+*   Personal identifiers, contacts and characteristics (for example, name and contact details)
 
-Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.
 
-In et diam congue, porta dui ac, rhoncus diam. Quisque imperdiet ex nec lorem gravida ultrices. Fusce ut volutpat metus. Morbi sollicitudin mi vel erat consectetur gravida. Donec consequat velit eget turpis dapibus, sed scelerisque sem pulvinar. Phasellus sit amet arcu eu metus auctor finibus. Phasellus a mauris ut urna auctor ornare. Morbi mollis laoreet orci at iaculis. 
 
-## Aliquam at Velit eu Elit Iaculis Cursus
+## How we get the personal information and why we have it
 
-In eu neque leo. Proin felis risus, maximus at ornare non, feugiat ac dui. Nam ornare feugiat sem, ac pretium urna bibendum quis. In hac habitasse platea dictumst. Curabitur sapien ante, molestie sit amet maximus id, malesuada eget felis. Praesent nec imperdiet neque.
+Most of the personal information we process is provided to us directly by you for one of the following reasons:
+
+*   To advise on treatments
+
+*   To collect testimonial
+
+*   To respond to any other general enquiries
+
+
+
+We use the information that you have given us in order to respond to your enquiries and provide tailored quotes for treatments.
+
+
+
+Under the General Data Protection Regulation (GDPR), the lawful bases we rely on for processing this information are:
+
+(a) Your consent. You are able to remove your consent at any time. You can do this by contacting the email address at the top of this policy.
+
+
+
+## How we store your personal information 
+
+Your information is securely stored on our hosting providers platform (Netlify). You can read more about their security [here](https://www.netlify.com/security/). 
+
+We keep all information submitted via the contact form for as long as necessary. We will then dispose your information by removing your data from Netlify.
+
+
+
+## Your data protection rights
+
+Under data protection law, you have rights including:
+
+Your right of access - You have the right to ask us for copies of your personal information. 
+
+Your right to rectification - You have the right to ask us to rectify personal information you think is inaccurate. You also have the right to ask us to complete information you think is incomplete. 
+
+Your right to erasure - You have the right to ask us to erase your personal information in certain circumstances. 
+
+Your right to restriction of processing - You have the right to ask us to restrict the processing of your personal information in certain circumstances. 
+
+Your right to object to processing - You have the the right to object to the processing of your personal information in certain circumstances.
+
+Your right to data portability - You have the right to ask that we transfer the personal information you gave us to another organisation, or to you, in certain circumstances.
+
+You are not required to pay any charge for exercising your rights. If you make a request, we have one month to respond to you.
+
+Please contact us at the email address at the top of this form to make a request.
+
+
+
+## How to complain
+
+If you have any concerns about our use of your personal information, you can make a complaint to us by contacting the email address at the top of this form.
+
+
+
+You can also complain to the ICO if you are unhappy with how we have used your data.
+
+The ICO’s address:            
+
+Information Commissioner’s Office
+
+Wycliffe House
+
+Water Lane
+
+Wilmslow
+
+Cheshire
+
+SK9 5AF
+
+
+
+
+Helpline number: 0303 123 1113
+
+ICO website: <https://www.ico.org.uk>
