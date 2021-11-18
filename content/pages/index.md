@@ -134,6 +134,7 @@ sections:
         image_alt: Feature 2 illustration
         media_position: left
         media_width: thirty-three
+        align: right
       - title: Tooth Straightening & Whitening
         subtitle: Achieve that perfect smile
         content: >
