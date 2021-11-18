@@ -43,6 +43,7 @@ sections:
         image_align: center
         content: |
           Orthodontic Treatment
+        content_align: center
       - image_alt: Logo 4
         image_align: center
         content: |
