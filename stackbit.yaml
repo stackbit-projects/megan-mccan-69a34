@@ -75,7 +75,7 @@ models:
           - red
           - gray
           - gold
-        default: blue
+        default: gold
         description: The palette of the site
         required: true
       - type: enum
