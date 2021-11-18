@@ -47,6 +47,7 @@ sections:
         image_align: center
         content: |
           Composite Bonding
+        content_align: center
       - image_alt: Logo 5
         image_align: center
         content: |
