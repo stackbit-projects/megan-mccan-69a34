@@ -43,7 +43,6 @@ layout: page
         <td>Invisalign</td>
         <td>From £XXXX.XX</td>
       </tr>
-
       <tr>
         <td>Orthodontic Treatment</td>
         <td>From £1900.00</td>
