@@ -17,7 +17,7 @@ seo:
     - name: 'twitter:card'
       value: summary
     - name: 'twitter:title'
-      value: Treatments
+      value: MMC Aesthetics - Treatments
     - name: 'twitter:description'
       value: >-
         A current list of treatments offered by MMC Aesthetics
