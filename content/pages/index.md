@@ -4,8 +4,10 @@ sections:
   - type: hero_section
     title: 'Hey, I’m Megan'
     subtitle: >-
-      I will handle your website design and production, social media accounts
-      and digital advertisements for you, at an affordable price.
+      A dentist, originally from Belfast, now located in the North East of
+      England. Having graduated in 2016 from the University of Glasgow I now
+      have over 5 years professional experience in a vast range of dental
+      treatments.
     actions:
       - label: Contact Me
         url: /contact
