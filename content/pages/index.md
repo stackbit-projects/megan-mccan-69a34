@@ -82,10 +82,13 @@ sections:
         align: left
       - title: Advanced Facial Aesthetics & Medical Skincare
         subtitle: 'Product updates, inventory and pricing.'
-        content: >-
-          Managing an online business is a full-time job. I will make sure your
-          products look great, sound great, and sell more on your choice of
-          ecommerce platform.
+        content: >
+          Pump up that volume and refresh your appearance with facial fillers or
+          eradicate those wrinkles with wrinkle relaxation. Using naturally
+          occurring substances we can relax those facial muscles and smooth out
+          wrinkles to give you a more youthful appearance. Both treatments come
+          with minimal discomfort and will aim to achieve natural looking
+          results.
         actions:
           - label: Get in touch
             url: /contact
