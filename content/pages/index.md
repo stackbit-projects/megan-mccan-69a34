@@ -304,7 +304,7 @@ seo:
         have over 5 years professional experience in a vast range of dental
         treatments.
     - name: 'twitter:image'
-      value: images/personal-preview.png
+      value: images/personal-preview-750aaff9.png
       relativeUrl: true
 layout: advanced
 ---
