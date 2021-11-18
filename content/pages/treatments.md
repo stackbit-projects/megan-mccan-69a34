@@ -1,7 +1,7 @@
 ---
 title: Treatments
 seo:
-  title: Theme Style Guide
+  title: Treatments
   description: A reference for suggested typographic treatment and styles for your content
   extra:
     - name: 'og:type'
