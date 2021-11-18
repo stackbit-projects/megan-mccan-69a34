@@ -2,7 +2,7 @@
 title: Privacy Policy
 seo:
   title: Privacy Policy
-  description: This is the privacy policy page
+  description: This is the MMC Aestheitcs privacy policy page
   extra:
     - name: 'og:type'
       value: website
