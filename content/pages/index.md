@@ -105,7 +105,7 @@ sections:
           documentation, pamphlets, manuals and technical documents.
         actions:
           - label: Get in touch
-            url: /faq
+            url: /contact
             style: primary
             has_icon: true
             icon: arrow-right
