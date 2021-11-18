@@ -45,8 +45,7 @@ sections:
         image_align: center
         content: |
           Composite Bonding
-      - image: images/logo-5.svg
-        image_alt: Logo 5
+      - image_alt: Logo 5
         image_align: center
       - image: images/logo-6.svg
         image_alt: Logo 6
