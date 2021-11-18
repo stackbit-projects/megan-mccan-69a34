@@ -62,10 +62,12 @@ sections:
     features:
       - title: Composite Bonding
         subtitle: Affordable teeth restoration
-        content: >-
-          I will handle content writing for your digital assets, from
-          newsletters and emails, to Facebook and Google campaigns, whitepapers,
-          case studies and product descriptions. No job is too big or small!
+        content: >
+          Composite bonding is the process of colour matching and restoring a
+          tooth with composite ensuring a natural blend with the colour of your
+          teeth. It can be carried out in a single session and is an affordable
+          alternative to veneers. This is a discreet and minimally invasive
+          method of repairing a damaged (cracked/chipped) or misshapen tooth.
         actions:
           - label: See Writing Samples
             url: /faq
