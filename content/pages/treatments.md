@@ -39,8 +39,7 @@ layout: page
         <td>Teeth Whitening</td>
         <td>From £250.00</td>
       </tr>
-
-          <tr>
+      <tr>
             <td>Invisalign</td>
         <td>From £XXXX.XX</td>
       </tr>
