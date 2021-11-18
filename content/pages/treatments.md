@@ -1,7 +1,7 @@
 ---
 title: Treatments
 seo:
-  title: Treatments
+  title: MMC Aesthetics - Treatments
   description: A current list of treatments offered by MMC Aesthetics
   extra:
     - name: 'og:type'
