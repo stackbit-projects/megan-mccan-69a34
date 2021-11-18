@@ -166,12 +166,26 @@ sections:
     background_image_opacity: 12
     section_id: testimonials
   - type: form_section
-    content: >-
-      ## Let's talk
+    content: >
+      ## Treatment Enquiries
 
 
-      If you would like more information about my services and pricing, please
-      contact me using the form below.
+      If you would like more information about my treatments and pricing, please
+      contact me using this form.
+
+
+      ## Testimonials
+
+
+      If you would like to submit a testimonial to be features on my website /
+      social pages please use this form.
+
+
+      ## Response Time
+
+
+      I aim to respond to all queries within 48 business hours, however during
+      busy periods and holidays this may not always be possible.
     content_align: left
     form_position: right
     form_width: fifty
