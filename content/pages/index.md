@@ -97,7 +97,7 @@ sections:
         image_alt: Feature 2 illustration
         media_position: left
         media_width: sixty
-      - title: Technical Content
+      - title: Tooth Straightening & Whitening
         subtitle: 'Your products and services, at scale.'
         content: >-
           I will dive into the ins and outs of your product or service and make
