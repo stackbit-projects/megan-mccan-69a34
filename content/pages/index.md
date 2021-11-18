@@ -80,7 +80,7 @@ sections:
     grid_gap_horiz: medium
     grid_gap_vert: medium
   - type: features_section
-    title: My treatments
+    title: Featured treatments
     subtitle: What I do
     features:
       - title: Composite Bonding
