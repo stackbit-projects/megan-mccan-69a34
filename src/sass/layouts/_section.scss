@@ -44,12 +44,11 @@
 
 }
 
-.feature__media {
+
     @media only screen and (max-width: 600px) {
-  body {
+  .feature__media  {
     background-color: lightblue;
   }
-}
 }
 
 .custom-footer-logo {
