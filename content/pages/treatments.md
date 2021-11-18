@@ -40,7 +40,7 @@ layout: page
         <td>From £250.00</td>
       </tr>
       <tr>
-            <td>Invisalign</td>
+        <td>Invisalign</td>
         <td>From £XXXX.XX</td>
       </tr>
 
