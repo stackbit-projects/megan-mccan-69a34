@@ -61,7 +61,7 @@ export default class HeroSection extends React.Component {
                                 })}
                             >
                                 {videoEmbed ? htmlToReact(videoEmbed)
-                                    : <div>
+                                    : <div className=""custom-image-border">
                                         <img
                                             src={withPrefix(image)}
                                             alt={imageAlt}
@@ -69,7 +69,7 @@ export default class HeroSection extends React.Component {
                                                 'mx-auto': alignX === 'center',
                                                 'ml-auto': alignX === 'right'
                                             })}
-                                        />}
+                                        /></div>}
                             </div>
                         )}
                         {hasText && (
