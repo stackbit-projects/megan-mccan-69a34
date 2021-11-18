@@ -11,7 +11,7 @@ seo:
       value: Privacy Policy
       keyName: property
     - name: 'og:description'
-      value: This is the privacy policy page
+      value: This is the MMC Aestheitcs privacy policy page
       keyName: property
     - name: 'twitter:card'
       value: summary
