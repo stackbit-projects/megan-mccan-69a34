@@ -130,17 +130,17 @@ sections:
     has_border: false
     background_color: secondary
 seo:
-  title: Pricing
-  description: This is the pricing page
+  title: Treatments
+  description: This is the treatments page
   extra:
     - name: og:type
       value: website
       keyName: property
     - name: og:title
-      value: Pricing
+      value: Treatments
       keyName: property
     - name: og:description
-      value: This is the pricing page
+      value: This is the treatments page
       keyName: property
     - name: og:image
       value: images/about-3.jpg
