@@ -112,7 +112,7 @@ sections:
         image: /images/cracktooth.svg
         image_alt: Feature 1 illustration
         media_position: right
-        media_width: fourty
+        media_width: thirty-three
         align: left
       - title: Advanced Facial Aesthetics & Medical Skincare
         subtitle: Rejuvenate yourself
