@@ -47,22 +47,18 @@ layout: page
         <td>Orthodontic Treatment</td>
         <td>From £1900.00</td>
       </tr>
-
       <tr>
         <td>Composite Bonding</td>
         <td>From £250.00 per Tooth</td>
       </tr>
-
       <tr>
         <td>White Composite Filling</td>
         <td>From £150.00</td>
       </tr>
-
       <tr>
         <td>Non-Surgical Rhinoplasty</td>
         <td>From £XXXX.XX</td>
       </tr>
-
       <tr>
         <td>Facial Anti-Wrinkle Treatments</td>
         <td>From £175.00</td>
