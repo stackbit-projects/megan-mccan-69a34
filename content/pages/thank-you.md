@@ -1,5 +1,5 @@
 ---
-title: Thank You
+title: MMC Aesthetics - Thank You
 sections:
   - type: hero_section
     title: Thank You!
