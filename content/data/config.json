@@ -47,7 +47,7 @@
             },
             {
                 "label": "Testimonials",
-                "url": "/treatments",
+                "url": "/testimonials",
                 "style": "link"
             }
         ],
