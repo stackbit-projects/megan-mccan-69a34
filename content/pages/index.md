@@ -124,11 +124,11 @@ sections:
         image_position: left
         image_width: twenty-five
       - content: >
-          Megan was so lovely with me. She explained every bit of the process
-          and didn't make me feel embarrassed about the state of my teeth.
+          Megan you are amazing at what you do! I can't wait to come back for my
+          next treatment, it's the best service I've had! Thank you
 
 
-          **K.M** - 12 October 2020
+          **ANON** - 2 August 2021
         image: images/miles-tone.png
         image_position: left
         image_width: twenty-five
