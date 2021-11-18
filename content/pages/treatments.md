@@ -27,7 +27,7 @@ layout: page
 ---
 <div class="responsive-table">
   <table>
-      <caption>Table with thead, tfoot, and tbody</caption>
+      <caption>Fees were correct at time of writing (18 nov 2022)</caption>
     <thead>
       <tr>
         <th>Treatment</th>
