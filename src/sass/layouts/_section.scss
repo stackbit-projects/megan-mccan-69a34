@@ -47,7 +47,8 @@
 
 @media (max-width: 800px) {
   .feature__media  {
-    width: 60%;
+    max-width: 40%;
+    display: inline-block;
   }
 }
 
