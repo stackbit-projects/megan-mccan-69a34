@@ -1,5 +1,5 @@
 ---
-title: Treatments
+title: MMC Aesthetics - Treatments
 seo:
   title: Treatments
   description: A current list of treatments offered by MMC Aesthetics
