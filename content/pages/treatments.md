@@ -63,7 +63,6 @@ layout: page
         <td>Facial Anti-Wrinkle Treatments</td>
         <td>From £175.00</td>
       </tr>
-
       <tr>
         <td>Dermal Filler Treatments</td>
         <td>From £180.00</td>
