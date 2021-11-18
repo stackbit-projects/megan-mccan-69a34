@@ -121,7 +121,7 @@ sections:
           between appointments... IO used to fear the dentist and now I love it!
 
 
-          **S.M**
+          **S.M **- 22 October 2020
         image: images/hanson-deck.png
         image_position: left
         image_width: twenty-five
