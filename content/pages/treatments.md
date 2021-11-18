@@ -2,7 +2,7 @@
 title: Treatments
 seo:
   title: Treatments
-  description: A reference for suggested typographic treatment and styles for your content
+  description: A current list of treatments
   extra:
     - name: 'og:type'
       value: website
