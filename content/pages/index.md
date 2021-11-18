@@ -125,12 +125,12 @@ sections:
         image: images/hanson-deck.png
         image_position: left
         image_width: twenty-five
-      - content: >-
-          Alyvia really understands who our customers are and what tone of voice
-          to use when communicating with them.
+      - content: >
+          Megan was so lovely with me. She explained every bit of the process
+          and didn't make me feel embarrassed about the state of my teeth.
 
 
-          **Miles Tone,** *CEO, Studio*
+          **K.M** - 12 October 2020
         image: images/miles-tone.png
         image_position: left
         image_width: twenty-five
