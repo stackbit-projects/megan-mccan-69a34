@@ -1,5 +1,5 @@
 ---
-title: lorem-ipsum
+title: Treatments
 seo:
   title: ''
   description: ''
