@@ -81,6 +81,15 @@ sections:
     grid_gap_vert: medium
     enable_cards: true
     has_border: true
+    actions:
+      - label: lorem-ipsum
+        url: '#'
+        style: link
+        has_icon: false
+        icon: arrow-left
+        icon_position: right
+        new_window: false
+        no_follow: false
   - type: features_section
     title: Featured treatments
     subtitle: What's hot
