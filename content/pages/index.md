@@ -69,7 +69,7 @@ sections:
           alternative to veneers. This is a discreet and minimally invasive
           method of repairing a damaged (cracked/chipped) or misshapen tooth.
         actions:
-          - label: See Writing Samples
+          - label: Get in touch
             url: /faq
             style: primary
             has_icon: true
