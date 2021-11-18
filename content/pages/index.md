@@ -99,10 +99,11 @@ sections:
         media_width: sixty
       - title: Tooth Straightening & Whitening
         subtitle: Achieve that perfect smile
-        content: >-
-          I will dive into the ins and outs of your product or service and make
-          sure the right information is communicated throughout your
-          documentation, pamphlets, manuals and technical documents.
+        content: >
+          From teeth realignment to closing gaps and adjusting tooth length,
+          there are many ways to achieve that perfect smile. We'll work together
+          to design your new smile and you'll even be able to see what your
+          teeth could potentially look like before we even get started.
         actions:
           - label: Get in touch
             url: /contact
