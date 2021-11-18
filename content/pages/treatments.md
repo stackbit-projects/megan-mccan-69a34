@@ -1,5 +1,5 @@
 ---
-title: MMC Aesthetics - Treatments
+title: Treatments
 seo:
   title: Treatments
   description: A current list of treatments offered by MMC Aesthetics
@@ -11,16 +11,14 @@ seo:
       value: MMC Aesthetics - Treatments
       keyName: property
     - name: 'og:description'
-      value: >-
-        A current list of treatments offered by MMC Aesthetics
+      value: A current list of treatments offered by MMC Aesthetics
       keyName: property
     - name: 'twitter:card'
       value: summary
     - name: 'twitter:title'
       value: MMC Aesthetics - Treatments
     - name: 'twitter:description'
-      value: >-
-        A current list of treatments offered by MMC Aesthetics
+      value: A current list of treatments offered by MMC Aesthetics
 layout: page
 ---
 <div class="responsive-table">
