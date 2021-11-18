@@ -270,7 +270,7 @@ sections:
     section_id: contact-us
 seo:
   title: MMC Aesthetics
-  description: The preview of the Personal theme
+  description: 
   extra:
     - name: 'og:type'
       value: website
