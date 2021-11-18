@@ -10,26 +10,25 @@ sections:
     background_color: none
   - type: form_section
     content: >
-      ## I'd love to hear from you
+      ## Treatment Enquiries
 
 
-      If you would like to find out more about the treatments that I offer of
-      leave me a testimonial please get in touch through this form.
+      If you would like more information about my treatments and pricing, please
+      contact me using this form.
 
 
-      ### Response
+      ## Testimonials
 
 
-      I aim to respond to all queries within 48 business hours, however
-      sometimes this may not be possible due to holidays.
+      If you would like to submit a testimonial to be features on my website /
+      social pages please use this form.
 
 
-      ### Terms
+      ## Response Time
 
 
-      If at any point you'd like to cancel our project, you are required to
-      provide a 30-day written notice, after which I will transfer all of your
-      assets to you so you can use them anytime.
+      I aim to respond to all queries within 48 business hours, however during
+      busy periods and holidays this may not always be possible.
     content_align: left
     form_position: left
     form_width: fifty
