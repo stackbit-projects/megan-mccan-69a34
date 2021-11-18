@@ -159,7 +159,7 @@ sections:
     background_image_repeat: repeat
     background_image_size: contain
     background_image_opacity: 12
-    section_id: '#testimonials'
+    section_id: testimonials
   - type: form_section
     content: >-
       ## Let's talk
