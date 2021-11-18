@@ -8,7 +8,7 @@ seo:
       value: website
       keyName: property
     - name: 'og:title'
-      value: Privacy Policy
+      value: MMC Aesthetics - Privacy Policy
       keyName: property
     - name: 'og:description'
       value: This is the MMC Aestheitcs privacy policy page
@@ -16,7 +16,7 @@ seo:
     - name: 'twitter:card'
       value: summary
     - name: 'twitter:title'
-      value: Privacy Policy
+      value: MMC Aesthetics - Privacy Policy
     - name: 'twitter:description'
       value: This is the MMC Aestheitcs privacy policy page
 layout: page
