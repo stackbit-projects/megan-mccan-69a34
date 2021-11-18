@@ -269,7 +269,7 @@ sections:
     background_image_opacity: 8
     section_id: contact-us
 seo:
-  title: Stackbit Personal Theme
+  title: MMC Aesthetics
   description: The preview of the Personal theme
   extra:
     - name: 'og:type'
