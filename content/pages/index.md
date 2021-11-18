@@ -290,7 +290,7 @@ seo:
         treatments.
       keyName: property
     - name: 'og:image'
-      value: images/personal-preview.png
+      value: images/personal-preview-750aaff9.png
       keyName: property
       relativeUrl: true
     - name: 'twitter:card'
