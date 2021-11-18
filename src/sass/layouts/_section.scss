@@ -47,12 +47,12 @@
 @media (max-width: 800px) {
     // The featured treatments
     #testimonials {
-        
+
+        .item__media  {
+          max-width: 40%;
+          display: inline-block;
+        }
     }
-  .feature__media  {
-    max-width: 40%;
-    display: inline-block;
-  }
 }
 
 @media (max-width: 800px) {
