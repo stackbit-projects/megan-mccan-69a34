@@ -162,6 +162,7 @@ sections:
     feature_padding_vert: large
     align: center
     background_color: none
+    background_image: /images/personal-preview-750aaff9.png
   - type: grid_section
     title: Testimonials
     subtitle: What My Clients Say
