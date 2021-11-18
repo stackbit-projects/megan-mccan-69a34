@@ -48,7 +48,7 @@ sections:
       - image_alt: Logo 5
         image_align: center
         content: |
-          Facial Anti-Wrinkle Treatments
+          White Composite Filling
       - title_align: left
         content: |
           Non-Surgical Rhinoplasty
