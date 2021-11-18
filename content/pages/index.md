@@ -104,6 +104,12 @@ sections:
           there are many ways to achieve that perfect smile. We'll work together
           to design your new smile and you'll even be able to see what your
           teeth could potentially look like before we even get started.
+
+
+          Teeth whitening is a great way to boost your confidence by brightening
+          your teeth. Depending on your needs there are different options
+          available, Boutique Whitening and Enlighten Evolution, both of which
+          are designed for comfort, effectiveness and convenience.
         actions:
           - label: Get in touch
             url: /contact
