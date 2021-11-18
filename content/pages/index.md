@@ -1,5 +1,5 @@
 ---
-title: Home
+title: MMC Aesthetics - Home
 sections:
   - type: hero_section
     title: 'Hey, I’m Megan'
