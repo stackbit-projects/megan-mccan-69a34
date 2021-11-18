@@ -1,5 +1,5 @@
 ---
-title: Contact
+title: MMC Aesthetics - Contact
 sections:
   - type: hero_section
     title: Contact Me
