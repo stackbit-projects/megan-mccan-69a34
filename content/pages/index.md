@@ -116,12 +116,10 @@ sections:
     title: Testimonials
     subtitle: What My Clients Say
     grid_items:
-      - content: >
-          I recommend Megan highly. She is so lovely and always keeps in touch
-          between appointments... IO used to fear the dentist and now I love it!
+      - content: |
+          Can't believe I didn't get them done sooner! Thank you so much!
 
-
-          **S.M** - 22 October 2020
+          **A.W**- 14 September 2021
         image: images/hanson-deck.png
         image_position: left
         image_width: twenty-five
