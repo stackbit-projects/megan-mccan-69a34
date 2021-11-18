@@ -60,7 +60,7 @@ sections:
     title: My treatments
     subtitle: What I do
     features:
-      - title: Content Creation
+      - title: Composite Bonding
         subtitle: 'Website, blog, social media and more.'
         content: >-
           I will handle content writing for your digital assets, from
