@@ -61,7 +61,7 @@ export default class HeroSection extends React.Component {
                                 })}
                             >
                                 {videoEmbed ? htmlToReact(videoEmbed)
-                                    : <div className=""custom-image-border">
+                                    : <div className="custom-image-border">
                                         <img
                                             src={withPrefix(image)}
                                             alt={imageAlt}
