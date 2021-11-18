@@ -64,7 +64,7 @@ export default class HeroSection extends React.Component {
                                     : <img
                                             src={withPrefix(image)}
                                             alt={imageAlt}
-                                            className={classNames("custom-image-border", {
+                                            className={classNames( {
                                                 'mx-auto': alignX === 'center',
                                                 'ml-auto': alignX === 'right'
                                             })}
