@@ -82,7 +82,7 @@ sections:
     enable_cards: true
     has_border: true
     actions:
-      - label: lorem-ipsum
+      - label: Find out more
         url: /treatments
         style: primary
         has_icon: false
