@@ -112,7 +112,7 @@ sections:
         image: /images/cracktooth.svg
         image_alt: Feature 1 illustration
         media_position: right
-        media_width: sixty
+        media_width: fourty
         align: left
       - title: Advanced Facial Aesthetics & Medical Skincare
         subtitle: Rejuvenate yourself
@@ -270,7 +270,10 @@ sections:
     section_id: contact-us
 seo:
   title: MMC Aesthetics
-  description: A dentist, originally from Belfast, now located in the North East of England. Having graduated in 2016 from the University of Glasgow I now have over 5 years professional experience in a vast range of dental treatments.
+  description: >-
+    A dentist, originally from Belfast, now located in the North East of
+    England. Having graduated in 2016 from the University of Glasgow I now have
+    over 5 years professional experience in a vast range of dental treatments.
   extra:
     - name: 'og:type'
       value: website
@@ -279,7 +282,11 @@ seo:
       value: MMC Aesthetics
       keyName: property
     - name: 'og:description'
-      value: A dentist, originally from Belfast, now located in the North East of England. Having graduated in 2016 from the University of Glasgow I now have over 5 years professional experience in a vast range of dental treatments.
+      value: >-
+        A dentist, originally from Belfast, now located in the North East of
+        England. Having graduated in 2016 from the University of Glasgow I now
+        have over 5 years professional experience in a vast range of dental
+        treatments.
       keyName: property
     - name: 'og:image'
       value: images/personal-preview.png
@@ -290,7 +297,11 @@ seo:
     - name: 'twitter:title'
       value: MMC Aesthetics
     - name: 'twitter:description'
-      value: A dentist, originally from Belfast, now located in the North East of England. Having graduated in 2016 from the University of Glasgow I now have over 5 years professional experience in a vast range of dental treatments.
+      value: >-
+        A dentist, originally from Belfast, now located in the North East of
+        England. Having graduated in 2016 from the University of Glasgow I now
+        have over 5 years professional experience in a vast range of dental
+        treatments.
     - name: 'twitter:image'
       value: images/personal-preview.png
       relativeUrl: true
